@@ -9,13 +9,13 @@ Library for STM32F1x, F4x, F7x and Teensy 3.5/6 based on library Gameduino 3 Pla
 
 Library based on [James Bowman](https://github.com/jamesbowman/gd2-lib)
 
-Library based on [lightcalamar GD23STM32_F103x](https://github.com/lightcalamar/GD23STM32_F103x)
+Library based on [lightcalamar GD23STM32_F103x](https://github.com/lightcalamar/GD23STM32_F103x) > programmed and modified by [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
 
 Library based on [STM32_GD2](https://github.com/nopnop2002/STM32_GD2)
 
 Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F407x***, ***Nucleo-STM32F767ZI*** and ***Teensy 3.5/6***. This library is compatible with the STM32 families described above. For any other MCU's you can use unified library [GD23Z](https://github.com/lightcalamar/GD23Z),
 
-[![MexSpan Team](https://i.imgur.com/Tbz341i.png)](https://www.youtube.com/watch?v=O8OUXB02g3wY "MexSpa Team")
+[![MexSpan Team](https://i.imgur.com/Tbz341i.png)](https://www.youtube.com/watch?v=O8OUXB02g3wY "Click here to MexSpa Team")
 
 
 # Video on youtube launching [MexSpa video](https://www.youtube.com/watch?v=O8OUXB02g3w)
@@ -94,3 +94,5 @@ Origin; Singapore
 - Hat tip to anyone who's code was used
 - Inspiration
 - etc
+
+# Coming soon ...
