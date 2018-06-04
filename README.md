@@ -53,7 +53,7 @@ Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/daniele
 1. Unzip library copy and paste in /home/your_user/arduino-1.8.5/libraries/
 2. Install Arduino Zero or Arduino Sam from the board manager for the arm-none-eabi-gcc compiler
 3. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
-   Recommended use GCC last version, change compiler.path in [platform.txt] 
+   Recommended use GCC **last version**, change compiler.path in [platform.txt] (Linux not have problems with lower systems in programming, example win ...)
    
 ## Windows
 1. Unzip library copy and paste path of IDE arduino-1.8.5/libraries/
