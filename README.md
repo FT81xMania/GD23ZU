@@ -15,6 +15,7 @@ Library based on [STM32_GD2](https://github.com/nopnop2002/STM32_GD2)
 
 Library with function playback videos on MCU'STM32F103x, STM32F407x, Nucleo-STM32F767ZI and Teensy 3.5/6. This library is compatible with the STM32 families described above. For any other MCU's you can use unified library [GD23Z](https://github.com/lightcalamar/GD23Z),
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=O8OUXB02g3wY "Everything Is AWESOME")
 
 # Video on youtube launching [MexSpa video](https://www.youtube.com/watch?v=O8OUXB02g3w)
 
