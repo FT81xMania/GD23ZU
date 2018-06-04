@@ -139,7 +139,7 @@ Coming soon ...
 
 ---
 
-# Youtube DEMO playback videos on Teensy and STM32Fx
+# YouTube DEMO playback videos on Teensy and STM32Fx with sound !!!
 
 https://www.youtube.com/watch?v=3K4Qc5GNrAg&t=6s
 
