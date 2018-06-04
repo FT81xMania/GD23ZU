@@ -3,10 +3,13 @@
 # MexSpa Team contribution for [FT81xMania](https://ft81xmania.com/comunidad/)
 
 # GD23ZU Library
-Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 based on library Gameduino 3 Playback videos
+Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 based on library Gameduino 3 Playback videos **.avi** with sound, from a microSD reader.
 
 # History
 We are an enthusiastic team of screens based on [FTDI chip](http://www.ftdichip.com/EVE.htm). We like programming and share our advances. We have reached this goal, our only interest is to give the opportunity to operate this library to multiple platforms of MCU's in the market. Wait for you to enjoy the codes, of our, your time.
+Two friends, in Mexico and another in Spain, the water or the puddle does not scare us ...
+Last month of May, a member of the Team, we left. We move on.
+Without any interest, we publish this library altruistically.
 
 # June 7, Release initial.
 
@@ -53,6 +56,7 @@ Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F40
    Recommended use GCC ver 5.4.1-2016q2,Change compiler.path in [platform.txt](https://github.com/danieleff/STM32GENERIC/blob/master/STM32/platform.txt#L21) to point to that you downloaded.   
    
 # Adjust the library according to your board and screen
+See wiki.
 
 # Extra libraries    
 * To calibrate the FT81x screens in STM32Fx we need an external EEPROM. You can download the AT24C32 library from 
@@ -81,6 +85,15 @@ Origin; Singapore
 * [Utility for transformation of images and assets](https://github.com/lightcalamar/Asset-Tools-FT81X-v3) on repository 
 * [Designer Editor](https://drive.google.com/open?id=1cmoGCe6tMLE_6JSjYLIngVogORFmBwBG) Maybe the best version for FTDI screen design. This version exports the code used to the Gameduino library. Note: this version is out of date, however very useful for your projects. It will greatly reduce the time used in your programming. It is capable of exporting images, to PROGMEM code and many more functions. Discover it!
 
+# Donwload files examples videos for your test.
+Coming soon ...
+
+# Software converter videos
+Coming soon ...
+
+# Wiki
+Coming soon ...
+
 # Useful links
 * Repository by [Amthony Di Girolamo](https://github.com/AnthonyDiGirolamo/gd2-lib-sdfat-testing)
 * Core for STM32GENERIC by [Danieleff](https://github.com/danieleff/STM32GENERIC), installation for IDE Arduino with STM32 boards
@@ -88,7 +101,7 @@ Origin; Singapore
 
 # Autors
 > [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg) and
-> [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar)
+> [@lightcalamar](https://ft81xmania.com/comunidad/Usuario-lightcalamar) (The MexSpa Team)
 
 # License
 > [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE") by James Bowman
