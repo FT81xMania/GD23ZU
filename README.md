@@ -113,7 +113,6 @@ Coming soon ...
 Coming soon ...
 
 ---
----
 
 # Useful links
 * Repository by [Amthony Di Girolamo](https://github.com/AnthonyDiGirolamo/gd2-lib-sdfat-testing)
@@ -130,7 +129,7 @@ Coming soon ...
 ---
 
 # Acknowledgments
-- Infinite thanks to **@nopnop2002** [STM32_GD2 Library on GitHUb](https://github.com/nopnop2002/STM32_GD2)
+- Infinite thanks to **@nopnop2002** [STM32_GD2 Library on GitHub](https://github.com/nopnop2002/STM32_GD2)
 - Hat tip to anyone who's code was used
 - Inspiration
 - To the Teensy forum of Paul Stoffregen for **not believing this possible**. According to these we spam ...
