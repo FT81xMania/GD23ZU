@@ -35,12 +35,12 @@ Library with function playback videos on MCU'STM32F103x, STM32F407x, Nucleo-STM3
 [Use the Core library by danieleff](https://github.com/danieleff/STM32GENERIC)
 
 # Installation
-    * Linux
-    Unzip library copy and paste in /home/your_user/arduino-1.8.5/libraries/
+## Linux
+  Unzip library copy and paste in /home/your_user/arduino-1.8.5/libraries/
 1. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
-   Recommended use GCC ver 5.4.1-2016q2,Change compiler.path in [platform.txt] 
+   Recommended use GCC last version, change compiler.path in [platform.txt] 
    
-    * Windows
+## Windows
 1. Download the latest version from [https://github.com/huaweiwx/STM32GENERIC](https://github.com/huaweiwx/STM32GENERIC)
 2. Unzip it into [Arduino]/hardware folder (Arduino must be ver1.8.5 or newer)
 3. Move the files in hardware/STM32GENERIC/tools folder to hardware/tools folder for allow other arduino arm can sharing it.
