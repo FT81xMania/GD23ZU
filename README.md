@@ -17,7 +17,7 @@ Without any interest, we publish this library altruistically.
 2. Library based on [lightcalamar GD23STM32_F103x](https://github.com/lightcalamar/GD23STM32_F103x) > programmed and modified by [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
 3. Library based on [STM32_GD2](https://github.com/nopnop2002/STM32_GD2) user **@nopnop2002** this [link](http://stm32duino.com/viewtopic.php?f=9&t=3466#p44477)
 
-Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F407x***, ***Nucleo-STM32F767ZI*** and ***Teensy 3.5/6***. This library is compatible with the STM32 families described above. For any other MCU's you can use unified library [GD23Z](https://github.com/lightcalamar/GD23Z),
+Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F407x***, ***Nucleo-STM32F767ZI*** and ***Teensy 3.5/6***. This library is compatible with the STM32 families described above. For any other MCU's you can use Unified Library [GD23Z](https://github.com/lightcalamar/GD23Z).
 
 ---
 
@@ -39,8 +39,12 @@ Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F40
     Models Boards;  (This boards SUPPORT playback video (see Wiki)
 * Teensy 3.5 and Teensy 3.6
 
+# ESP32 support
+It is **not yet possible to play videos**. To be working very hard and we hope to give the big surprise with this MCU.
+At the moment only work very fine with library  Unified Library [GD23Z](https://github.com/lightcalamar/GD23Z).
+
 # Software requirement
-[Use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
+Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
 
 # Installation
 ## Linux
@@ -56,7 +60,7 @@ Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F40
    Recommended use GCC ver 5.4.1-2016q2,Change compiler.path in [platform.txt](https://github.com/danieleff/STM32GENERIC/blob/master/STM32/platform.txt#L21) to point to that you downloaded.   
    
 # Adjust the library according to your board and screen
-See wiki.
+See wiki. (Coming soon)
 
 # Extra libraries    
 * To calibrate the FT81x screens in STM32Fx we need an external EEPROM. You can download the AT24C32 library from 
