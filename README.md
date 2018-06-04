@@ -3,15 +3,15 @@
 # MexSpa Team contribution for [FT81xMania](https://ft81xmania.com/comunidad/)
 
 # GD23ZU Library
-Library for STM32F1x, F4x, F7x and Teensy 3.5/6 based on library Gameduino 3 Playback videos
+Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 based on library Gameduino 3 Playback videos
 
-# June 7, Release
+# June 7, Release initial.
 
 Library based on [James Bowman](https://github.com/jamesbowman/gd2-lib)
 
 Library based on [lightcalamar GD23STM32_F103x](https://github.com/lightcalamar/GD23STM32_F103x) > programmed and modified by [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
 
-Library based on [STM32_GD2](https://github.com/nopnop2002/STM32_GD2)
+Library based on [STM32_GD2](https://github.com/nopnop2002/STM32_GD2) user **@nopnop2002** this [link](http://stm32duino.com/viewtopic.php?f=9&t=3466#p44477)
 
 Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F407x***, ***Nucleo-STM32F767ZI*** and ***Teensy 3.5/6***. This library is compatible with the STM32 families described above. For any other MCU's you can use unified library [GD23Z](https://github.com/lightcalamar/GD23Z),
 
@@ -93,8 +93,12 @@ Origin; Singapore
 > [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE") by James Bowman
 
 # Acknowledgments
+- Infinite thanks to **@nopnop2002** [STM32_GD2 Library on GitHUb](https://github.com/nopnop2002/STM32_GD2)
 - Hat tip to anyone who's code was used
 - Inspiration
-- etc
+- To the Teensy forum for **not believing this possible**. According to these we spam ...
+  [See this link] (https://forum.pjrc.com/threads/51842-New-playback-videos-all-MCU-with-FTDI-screens)
+- More time frustation...
+- Etc...
 
 # Coming soon ...
