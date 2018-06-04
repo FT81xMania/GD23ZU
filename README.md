@@ -32,20 +32,19 @@ Library with function playback videos on MCU'STM32F103x, STM32F407x, Nucleo-STM3
 * Teensy 3.5 and Teensy 3.6
 
 # Software requirement
-[Use the Core library by danieleff](https://github.com/danieleff/STM32GENERIC)
+[Use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
 
 # Installation
 ## Linux
-  Unzip library copy and paste in /home/your_user/arduino-1.8.5/libraries/
-1. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
+1. Unzip library copy and paste in /home/your_user/arduino-1.8.5/libraries/
+2. Install Arduino Zero or Arduino Sam from the board manager for the arm-none-eabi-gcc compiler
+3. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
    Recommended use GCC last version, change compiler.path in [platform.txt] 
    
 ## Windows
-1. Download the latest version from [https://github.com/huaweiwx/STM32GENERIC](https://github.com/huaweiwx/STM32GENERIC)
-2. Unzip it into [Arduino]/hardware folder (Arduino must be ver1.8.5 or newer)
-3. Move the files in hardware/STM32GENERIC/tools folder to hardware/tools folder for allow other arduino arm can sharing it.
-4. Install Arduino Zero or Arduino Sam from the board manager for the arm-none-eabi-gcc compiler
-5. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
+1. Unzip library copy and paste path of IDE arduino-1.8.5/libraries/
+2. Install Arduino Zero or Arduino Sam from the board manager for the arm-none-eabi-gcc compiler
+3. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
    Recommended use GCC ver 5.4.1-2016q2,Change compiler.path in [platform.txt](https://github.com/danieleff/STM32GENERIC/blob/master/STM32/platform.txt#L21) to point to that you downloaded.   
    
 # Adjust the library according to your board and screen
