@@ -3,7 +3,7 @@
 # MexSpa Team contribution for [FT81xMania](https://ft81xmania.com/comunidad/)
 
 # GD23ZU Library
-Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 based on library Gameduino 3 Playback videos **.avi** with sound, from a microSD reader.
+Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 based on library Gameduino 3 Playback videos **.avi** with sound, from a microSD reader **for FTDI; FT810, FT811** and **FT813** screens.
 
 # History
 We are an enthusiastic team of screens based on [FTDI chip](http://www.ftdichip.com/EVE.htm). We like programming and share our advances. We have reached this goal, our only interest is to give the opportunity to operate this library to multiple platforms of MCU's in the market. Wait for you to enjoy the codes, of our, your time.
@@ -43,6 +43,8 @@ Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F40
 It is **not yet possible to play videos**. To be working very hard and we hope to give the big surprise with this MCU.
 At the moment only work very fine with library  Unified Library [GD23Z](https://github.com/lightcalamar/GD23Z).
 
+---
+
 # Software requirement
 Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
 
@@ -70,6 +72,8 @@ See wiki. (Coming soon)
 # Tips
 * These screens have a problem, being the length of the SPI BUS cables. The purpose is to be very short, between 7 and 10 mm. Also a tip is to use on this same SPI BUS some pull-up resistors. [Be a solution of a forum user](https://ft81xmania.com/comunidad/Tema-reset-power-up-issue-with-hotmmcu-ft811cb) by [@raufjay]( https://ft81xmania.com/comunidad/Usuario-raufjay)
 
+---
+
 # Where to buy FT8xx screens?
 * [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1) Location in the USA, Boston, great finish quality.
 * [HotMCU](https://www.hotmcu.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ftdi)
@@ -78,10 +82,14 @@ Origin; Singapore
 * [Riverdi Display](https://riverdi.com/product/mikroc-pro-for-ft90x/) Quality and variety of screens, their origin; Poland.
 * [Gameduino 3](https://coolcomponents.co.uk/products/gameduino-3) Original Gameduino3 by James Bowman, release in December 2017, 4.3-inch screen and FT810, UK online store.
 
+---
+
 # Where do I find information about programming EVE2 of FTDI?
 * [Support Oficial FTDI-Chip](http://www.ftdichip.com/Support/SoftwareExamples/FT800_Projects.htm#FT8xx_Selecting%20an%20LCD%20Display) Complete list of examples and documentation of FTDI-Chip
 * [Migration FT80x to FT81x](http://www.ftdichip.com/Support/Documents/AppNotes/AN_390%20FT80x%20To%20FT81x%20Migration%20Guide.pdf) Documentation PDF.
 * [FT81x High resolution](http://brtchip.com/wp-content/uploads/Support/Documentation/Datasheets/ICs/EVE/DS_FT81x.pdf), This a PDF documentation for FT81x screens programming guide.
+
+---
 
 # Resource and help for FTDI screens
 * A book by [James Bowman](https://ft81xmania.com/comunidad/Tema-gd2-book-by-james-bownman-screen-ftdi?highlight=book)
@@ -89,14 +97,23 @@ Origin; Singapore
 * [Utility for transformation of images and assets](https://github.com/lightcalamar/Asset-Tools-FT81X-v3) on repository 
 * [Designer Editor](https://drive.google.com/open?id=1cmoGCe6tMLE_6JSjYLIngVogORFmBwBG) Maybe the best version for FTDI screen design. This version exports the code used to the Gameduino library. Note: this version is out of date, however very useful for your projects. It will greatly reduce the time used in your programming. It is capable of exporting images, to PROGMEM code and many more functions. Discover it!
 
+---
+
 # Donwload files examples videos for your test.
 Coming soon ...
+
+---
 
 # Software converter videos
 Coming soon ...
 
+---
+
 # Wiki
 Coming soon ...
+
+---
+---
 
 # Useful links
 * Repository by [Amthony Di Girolamo](https://github.com/AnthonyDiGirolamo/gd2-lib-sdfat-testing)
@@ -109,6 +126,8 @@ Coming soon ...
 
 # License
 > [LICENSE](https://github.com/lightcalamar/GD23Z/blob/master/LICENSE "LICENSE") by James Bowman
+
+---
 
 # Acknowledgments
 - Infinite thanks to **@nopnop2002** [STM32_GD2 Library on GitHUb](https://github.com/nopnop2002/STM32_GD2)
