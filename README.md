@@ -15,11 +15,13 @@ Library based on [STM32_GD2](https://github.com/nopnop2002/STM32_GD2)
 
 Library with function **playback videos** on MCU's ***STM32F103x***, ***STM32F407x***, ***Nucleo-STM32F767ZI*** and ***Teensy 3.5/6***. This library is compatible with the STM32 families described above. For any other MCU's you can use unified library [GD23Z](https://github.com/lightcalamar/GD23Z),
 
-[![MexSpan Team](https://i.imgur.com/Tbz341i.png)](https://www.youtube.com/watch?v=O8OUXB02g3wY "Click here to MexSpa Team")
+---
 
+[![MexSpan Team](https://i.imgur.com/Tbz341i.png)](https://www.youtube.com/watch?v=O8OUXB02g3wY "Click here to MexSpa Team")
 
 # Video on youtube launching [MexSpa video](https://www.youtube.com/watch?v=O8OUXB02g3w)
 
+---
 
 # STM32F support
     Models Boards;  (This boards SUPPORT playback video, see Wiki)
