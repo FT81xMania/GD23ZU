@@ -110,7 +110,7 @@ Using this conversion tool is very simple. Read topic, [this link](https://ft81x
 ---
 
 # Wiki
-Coming soon ...
+See wiki on github for [options, hardware and more](https://github.com/FT81xMania/GD23ZU/wiki)
 
 ---
 
