@@ -100,12 +100,12 @@ Origin; Singapore
 ---
 
 # Donwload files examples videos for your test.
-Coming soon ...
+[Donwload files.avi for test library](https://ft81xmania.com/comunidad/Tema-test-files-avi-to-library-gd23zu)
 
 ---
 
 # Software converter videos
-Using this conversion tool is very simple. Read topic, and in an attached file software you can convert any video to play. [This link](https://ft81xmania.com/comunidad/Tema-converter-to-playback-videos)
+Using this conversion tool is very simple. Read topic, [this link](https://ft81xmania.com/comunidad/Tema-converter-to-playback-videos) attached file software you can convert any video to play. 
 
 ---
 
