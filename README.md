@@ -105,7 +105,7 @@ Coming soon ...
 ---
 
 # Software converter videos
-Coming soon ...
+Using this conversion tool is very simple. Read topic, and in an attached file software you can convert any video to play. [This link](https://ft81xmania.com/comunidad/Tema-converter-to-playback-videos)
 
 ---
 
@@ -147,4 +147,4 @@ https://www.youtube.com/watch?v=XSeefeQb20A&t=6s
 
 
 # Coming soon ...
-Update June, 4 2018
+Update June 6, 2018
