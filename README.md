@@ -146,5 +146,4 @@ https://www.youtube.com/watch?v=l_VrVL0g6X0
 https://www.youtube.com/watch?v=XSeefeQb20A&t=6s
 
 
-# Coming soon ...
-Update June 6, 2018
+
