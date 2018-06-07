@@ -62,7 +62,7 @@ Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/daniele
    Recommended use GCC ver 5.4.1-2016q2,Change compiler.path in [platform.txt](https://github.com/danieleff/STM32GENERIC/blob/master/STM32/platform.txt#L21) to point to that you downloaded.   
    
 # Adjust the library according to your board and screen
-See wiki. (Coming soon)
+See wiki. [Information](https://github.com/FT81xMania/GD23ZU/wiki)
 
 # Extra libraries    
 * To calibrate the FT81x screens in STM32Fx we need an external EEPROM. You can download the AT24C32 library from 
