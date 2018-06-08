@@ -1,4 +1,8 @@
 /*
+ * FT81X FTDI screens Library for Teensy 3.5/6 and STM32F1x, F4 and F7
+ * based on STM32_GD2 by nopnop2002
+ * https://github.com/nopnop2002/STM32_GD2
+ *
  * FT800/81X TFT Library for STM32F103
  * based on GD23STM32_F103x by lightcalamar
  * https://github.com/lightcalamar/GD23STM32_F103x
