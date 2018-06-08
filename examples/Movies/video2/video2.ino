@@ -1,3 +1,8 @@
+/*
+* Please donwload files videos .avi from https://github.com/jamesbowman/gd2-lib/tree/master/sdcard
+*
+*/
+
 #include <GD23ZU.h>
 
 char avis[][ 13 ] =
