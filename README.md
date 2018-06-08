@@ -81,6 +81,7 @@ See wiki. [Information](https://github.com/FT81xMania/GD23ZU/wiki)
 Origin; Singapore
 * [Riverdi Display](https://riverdi.com/product/mikroc-pro-for-ft90x/) Quality and variety of screens, their origin; Poland.
 * [Gameduino 3](https://coolcomponents.co.uk/products/gameduino-3) Original Gameduino3 by James Bowman, release in December 2017, 4.3-inch screen and FT810, UK online store.
+* [Luna Electronic GMBH](https://www.luna-displays.de/TFT-Embedded-Video-Engine/) EVE2 Displays from Europe, Germany. Partners New Haven Display (NHD)
 
 ---
 
