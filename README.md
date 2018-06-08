@@ -45,6 +45,9 @@ At the moment only work very fine with library  Unified Library [GD23Z](https://
 
 ---
 
+# Resolution in test videos files
+Today test 700x400 pixels, work very well. [Demo file](https://ft81xmania.com/comunidad/Tema-demo-test-video-700x400-pixels)
+
 # Software requirement
 Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
 
