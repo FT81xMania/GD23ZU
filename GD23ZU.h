@@ -786,7 +786,8 @@ public:
   }
   void play() {
 //Serial.println("MoviePlayer play start");
-    GD.cmd_playvideo(OPT_MEDIAFIFO | OPT_FULLSCREEN | OPT_SOUND);  // ADD OPT_SOUND by @lightcalamar
+//    GD.cmd_playvideo(OPT_MEDIAFIFO | OPT_FULLSCREEN | OPT_SOUND);  // ADD OPT_SOUND by @lightcalamar
+    GD.cmd_playvideo(OPT_MEDIAFIFO | OPT_SOUND);  // ADD OPT_SOUND by @lightcalamar 11/06/2018
     GD.flush();
     while (service())
       ;
