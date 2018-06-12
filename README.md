@@ -14,7 +14,7 @@ Two friends, in Mexico and another in Spain, the water or the puddle does not sc
 Last month of May, a member of the Team, we left. We move on.
 Without any interest, we publish this library altruistically.
 
-# June 7, Release initial.
+# June 7, 2018 Release initial.
 
 1. Library based on [James Bowman](https://github.com/jamesbowman/gd2-lib)
 2. Library based on [lightcalamar GD23STM32_F103x](https://github.com/lightcalamar/GD23STM32_F103x) > programmed and modified by [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
