@@ -49,8 +49,9 @@ At the moment only work very fine with library  Unified Library [GD23Z](https://
 Today test 700x400 pixels, work very well. [Demo file](https://ft81xmania.com/comunidad/Tema-demo-test-video-700x400-pixels)
 
 # Testing resolution videos playback
-June 8, 2018 increase in 790 x 470 pixels videos work very fine.
-June 12, 2018 **maximum resolution of videos is 790 x 470 pixels**.
+1.June 8, 2018 increase in 790 x 470 pixels videos work very fine.
+
+2.June 12, 2018 **maximum resolution of videos is 790 x 470 pixels**.
 
 # Software requirement
 Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
