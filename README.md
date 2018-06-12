@@ -1,5 +1,8 @@
 ![FT81xMania](logo.png?raw=true "GD23ZU")
 
+
+![FT81xMania](logo2.gif?raw=true "GD23ZU")
+
 # MexSpa Team contribution for [FT81xMania](https://ft81xmania.com/comunidad/)
 
 # GD23ZU Library
