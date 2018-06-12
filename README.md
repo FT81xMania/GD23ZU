@@ -50,8 +50,7 @@ Today test 700x400 pixels, work very well. [Demo file](https://ft81xmania.com/co
 
 # Testing resolution videos playback
 June 8, 2018 increase in 790 x 470 pixels videos work very fine.
-The test files publish ... coming soon ...
-
+June 12, 2018 **maximum resolution of videos is 790 x 470 pixels**.
 
 # Software requirement
 Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
