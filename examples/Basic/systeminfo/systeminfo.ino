@@ -1,4 +1,4 @@
-#include <GD23UZ.h>
+#include <GD23ZU.h>
 
 void setup() {
   GD.begin(GD_NONE);
