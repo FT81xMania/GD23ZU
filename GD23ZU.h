@@ -48,7 +48,16 @@
 #define POR_PIN       PB1   // POWER ON RESET SCREEN HOTMCU   Pin PB1 para (FOR) STM32F103C8T6   
                             // ONLY PWM pin is corect !!!    by lightcalamar
 #define TFT_CS        PA4   // Chip Select for TFT
-#define SD_PIN        PA11  // PB11 SPI3-F767, PA11 SPI2-F767, PA15 SPI2-F429
+
+#define STM32_CPU     767    //767--Nucleo F767ZI    429--F429I_DISCO
+
+  #if(STM32_CPU == 429) 
+     #define SD_PIN        PA15  //PA15   SPI3 on F429 and Core7XXI
+  #endif
+
+  #if(STM32_CPU == 767) 
+     #define SD_PIN        PB11  //PB11 SPI3-F767, PA11 SPI2-F767
+  #endif
 #endif
 
 
