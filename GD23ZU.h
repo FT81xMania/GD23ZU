@@ -67,7 +67,7 @@
 #define PROTO           0  // 0 FT80x alternatives, 1 gameduino2
 #define ROTACION        0  // 0,1         FT80x
 
-#define SizeFT813       5   //5-5", 43-4.3", 35-3.5"
+#define SizeFT813       7  //7-7",  5-5", 43-4.3", 35-3.5"
 
 
 #define RGB(r, g, b)    ((uint32_t)((((r) & 0xffL) << 16) | (((g) & 0xffL) << 8) | ((b) & 0xffL)))
