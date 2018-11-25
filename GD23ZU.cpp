@@ -634,6 +634,30 @@ if (FT800_model == 00) // FT800 Series
 //	GD.wr32(REG_CSPREAD, 0);
 //	GD.wr32(REG_DITHER, 0);
 
+if (SizeFT813==7)
+  {
+
+     GD.wr32(REG_HCYCLE, 1056);//1000
+     GD.wr32(REG_HOFFSET, 88);
+     GD.wr32(REG_HSIZE, 800);
+     GD.wr32(REG_HSYNC0, 0);
+     GD.wr32(REG_HSYNC1, 48); //41
+	
+     GD.wr32(REG_VSIZE, 480);
+     GD.wr32(REG_VCYCLE, 525);
+     GD.wr32(REG_VOFFSET, 32);
+     GD.wr32(REG_VSYNC0, 0);
+     GD.wr32(REG_VSYNC1, 3);
+	
+	//GD.wr32(REG_SWIZZLE, 0);//3 for GD2
+	
+     GD.wr32(REG_PCLK, 2);//5
+     GD.wr32(REG_PCLK_POL, 1);//1
+     GD.wr32(REG_CSPREAD, 1);
+     GD.wr32(REG_DITHER, 1);
+}
+	  
+	  
 
 if (SizeFT813==5)
   {
