@@ -49,7 +49,7 @@
                             // ONLY PWM pin is corect !!!    by lightcalamar
 #define TFT_CS        PA4   // Chip Select for TFT
 
-#define STM32_CPU     767    //767--Nucleo F767ZI    429--F429I_DISCO
+#define STM32_CPU     767    //767--Nucleo F767ZI    429--F429I_DISCO    407---M4_DEMO
 
   #if(STM32_CPU == 429) 
      #define SD_PIN        PA15  //PA15   SPI3 on F429 and Core7XXI
@@ -57,6 +57,10 @@
 
   #if(STM32_CPU == 767) 
      #define SD_PIN        PB11  //PB11 SPI3-F767, PA11 SPI2-F767
+  #endif
+
+  #if(STM32_CPU == 407) 
+     #define SD_PIN        PB12  //PB12 SPI2  M4-DEMO
   #endif
 #endif
 
