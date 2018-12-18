@@ -38,8 +38,18 @@
 #include "transports/wiring.h"
 
 #if defined(ARDUINO_ARCH_STM32)
-   //SdFat SD(3);     // STM32F429
-   SdFat SD(2);       // STM32F767
+#if(STM32_CPU == 429)
+    SdFat SD(3);     // STM32F429 with PA15 
+  #endif
+
+  #if(STM32_CPU == 767)
+    SdFat SD(3);     // STM32F767 with PB11
+  #endif
+
+  #if(STM32_CPU == 407)
+   SdFat SD(2);       // M4DEMO with PB12
+   // SdFatSdio SD;
+  #endif
 #endif
 
 #if defined(TEENSYDUINO) 
